@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2GG/acqrLcMnROeiNMrLm8IBzc2m+btmFSim7Xq3YM+bp4wjNHfv0pJjvsDaAkGBruT2UQ8mLwR9V6/vJhhPsQ==",
+  "success": true,
+  "projectFilePath": "F:\\Dokument\\Projekt\\passwordmanager\\passwordmanager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hampus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
